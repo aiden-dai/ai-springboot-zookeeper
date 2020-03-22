@@ -1,9 +1,9 @@
 package com.zk.server.controller;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cloud.zookeeper.serviceregistry.ServiceInstanceRegistration;
-import org.springframework.cloud.zookeeper.serviceregistry.ZookeeperRegistration;
-import org.springframework.cloud.zookeeper.serviceregistry.ZookeeperServiceRegistry;
+
+// import org.springframework.cloud.zookeeper.serviceregistry.ServiceInstanceRegistration;
+// import org.springframework.cloud.zookeeper.serviceregistry.ZookeeperRegistration;
+// import org.springframework.cloud.zookeeper.serviceregistry.ZookeeperServiceRegistry;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
